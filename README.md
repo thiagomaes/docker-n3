@@ -49,7 +49,7 @@ docker compose up -d
 ## 🛑 Parar os containers
 
 ```bash
-docker compose down
+docker compose down -v
 ```
 
 ---
